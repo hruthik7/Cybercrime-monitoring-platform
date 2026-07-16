@@ -26,5 +26,18 @@ This project demonstrates the deployment and management of a professional-grade 
 ## Engineering Resilience
 During deployment, I resolved complex networking issues between the Windows host and WSL 2. This process of debugging and bridge engineering was critical in achieving a stable, persistent security monitoring environment.
 
+## Getting Started
+
+### Prerequisites
+- **OS:** Windows 10/11 with WSL 2 (Ubuntu) enabled.
+- **Containerization:** Docker Desktop installed and running with "WSL 2 Integration" enabled.
+
+### Deployment Instructions
+To replicate this lab environment locally:
+
+ **Clone the repository:**
+   ```bash
+   git clone [https://github.com/hruthik7/Cybercrime-monitoring-platform](https://github.com/hruthik7/Cybercrime-monitoring-platform)
+   cd Cybercrime-monitoring-platform
 ---
 *Created as a proactive defense research project.*
